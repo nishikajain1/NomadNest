@@ -1,0 +1,10 @@
+Button {
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(219, 219, 219);
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 1px; */
+    border-radius: 8px;
+}
+Button:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
